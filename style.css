@@ -1,0 +1,25 @@
+#empty-section {
+  height: 700px;
+  width: 100%;
+  background-color: blue;
+}
+
+#empty-section2 {
+  height: 700px;
+  width: 100%;
+  background-color: blue;
+}
+#box1 {
+  display: flex;
+  border: 5px solid green;
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  margin: 50px;
+  /* opacity: 0;
+  transition: opacity 1s ease-in; */
+}
+
+/* .visible {
+  opacity: 1 !important;
+} */
